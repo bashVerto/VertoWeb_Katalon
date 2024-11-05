@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edit_icon</name>
+   <tag></tag>
+   <elementGuidId>283cfe7c-3031-4621-8976-42d64af11088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidepanel-header']/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sds-edit.sw-btn-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;p&quot;s] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9cc2cc0-3d17-4246-8b61-3ff8a93c5d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1b3331b2-d075-41b5-af3c-5c1e12165c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sds-edit sw-btn-icon</value>
+      <webElementGuid>a312a0e9-2db1-4747-9273-c510d98336ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidepanel-header&quot;)/div[@class=&quot;flex flex-grow space-between bg-white padding-16 radius-lg ng-star-inserted&quot;]/div[@class=&quot;flex flex-wrap align-items-center gaps-10 ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-gray sw-btn-sm sw-btn-icon-only ng-star-inserted&quot;]/span[@class=&quot;sds-edit sw-btn-icon&quot;]</value>
+      <webElementGuid>3db7e9b6-a0f7-475a-adce-d28ced12665c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidepanel-header']/div/div[2]/button/span</value>
+      <webElementGuid>c38e31a6-0115-42d1-84cd-d1095feaa16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>c084a642-250e-4469-ad05-b2e4cd8e7b22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

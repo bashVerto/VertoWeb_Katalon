@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>beneficiaries_limit</name>
+   <tag></tag>
+   <elementGuidId>f1a7a8a3-689c-45f9-8bff-34ee4b00df1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Beneficiaries&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>19065d30-57c5-43b5-82e8-550532a4bf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title text-mm</value>
+      <webElementGuid>f6608563-96d5-41e8-94a4-35faaf6bd65a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beneficiaries</value>
+      <webElementGuid>7b0a6364-a442-4f41-b97c-c2855a13993f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/v-client-sidebar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sidebar light&quot;]/div[@class=&quot;wrapper light&quot;]/ul[@class=&quot;top-menu&quot;]/li[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;menu-title text-mm&quot;]</value>
+      <webElementGuid>1ff0161b-28e5-4b04-816e-9a3c52549e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::span[1]</value>
+      <webElementGuid>12b1cb9d-9045-4c35-8755-e84b44f56d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment links'])[1]/following::span[2]</value>
+      <webElementGuid>464d7df5-2b8d-45bb-97a7-10e0a48095e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verto API'])[1]/preceding::span[1]</value>
+      <webElementGuid>09bf79a5-6d45-4dca-a540-467c8eabe4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BA'])[1]/preceding::span[2]</value>
+      <webElementGuid>41df5bfd-390e-4b8c-b145-9fb8d20dfd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beneficiaries']/parent::*</value>
+      <webElementGuid>17ca99f5-5315-41e0-9156-b3a79f591714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/span</value>
+      <webElementGuid>8f05882e-f3fe-416c-81be-40e7769a512e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Beneficiaries' or . = 'Beneficiaries')]</value>
+      <webElementGuid>e25b82bf-4969-48ee-955a-528ee6e43bfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

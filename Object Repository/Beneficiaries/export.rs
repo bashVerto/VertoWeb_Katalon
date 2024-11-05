@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>export</name>
+   <tag></tag>
+   <elementGuidId>4d7aa760-1aa5-4893-8331-99ae2ecb80ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bank Account'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Export&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a6a7a29-05cf-42fc-8538-13f3d7d43ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn-label ng-star-inserted</value>
+      <webElementGuid>1b86977b-a5cf-4c06-871d-06407afea182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>04317292-82c9-4bd5-8a09-ff64b2488dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export</value>
+      <webElementGuid>d08eca72-e4b5-400c-a68a-03ef1ec1e977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/beneficiaries[@class=&quot;ng-star-inserted&quot;]/v-my-bank-accounts[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/div[@class=&quot;margin-block-16 ng-star-inserted&quot;]/sw-table[1]/div[@class=&quot;sw-table-card&quot;]/div[@class=&quot;sw-table-card-header ng-star-inserted&quot;]/div[@class=&quot;header-container ng-star-inserted&quot;]/div[@class=&quot;action-buttons flex flex-end&quot;]/sw-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-gray&quot;]/span[@class=&quot;sw-btn-label ng-star-inserted&quot;]</value>
+      <webElementGuid>9c11eb24-3954-46d9-b423-0144f6a00c4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bank Account'])[1]/following::span[2]</value>
+      <webElementGuid>44758900-2655-4532-a99d-18e648208d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recipients'])[2]/following::span[5]</value>
+      <webElementGuid>b65308d5-7649-4206-b0f7-c72679d32b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::span[2]</value>
+      <webElementGuid>f5e3117d-ff58-4672-920b-f3fbd73e6ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Name'])[1]/preceding::span[3]</value>
+      <webElementGuid>2685680e-161d-4a71-92e2-490580cdc561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export']/parent::*</value>
+      <webElementGuid>8f62d5d2-89f1-49a9-b9f4-7883fa03315f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-button[2]/button/span[2]</value>
+      <webElementGuid>ef1efb63-f4b2-46d3-9a01-abc37a6081cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Export' or . = 'Export')]</value>
+      <webElementGuid>acd18813-8a2a-4693-bba8-c425b835fa63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

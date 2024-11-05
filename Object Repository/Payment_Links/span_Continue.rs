@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue</name>
+   <tag></tag>
+   <elementGuidId>c253c1c1-7c56-4f87-92d9-fb9e0c493e7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidepanel-body']/div/sw-stepper/div/sw-stepper-content/div[2]/sw-button/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary > span.sw-btn-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Continue&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>571b1edc-3319-423c-afa6-8facd0a44a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn-label ng-star-inserted</value>
+      <webElementGuid>99bbdcf2-8748-4bfb-ab24-4afa63f350cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>f61ee0fa-3859-47db-a57c-84361f19678e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidepanel-body&quot;)/div[@class=&quot;padding-24 ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/sw-button[@class=&quot;margin-inline-24 ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-primary&quot;]/span[@class=&quot;sw-btn-label ng-star-inserted&quot;]</value>
+      <webElementGuid>9467da54-1260-4ea7-8d3b-0015911714c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidepanel-body']/div/sw-stepper/div/sw-stepper-content/div[2]/sw-button/button/span</value>
+      <webElementGuid>22d2fde7-bb03-4497-a946-66e0bd396c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer email*'])[1]/following::span[2]</value>
+      <webElementGuid>afb37c20-fe9d-4103-9b36-74a5a19adfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payer name*'])[1]/following::span[3]</value>
+      <webElementGuid>9a93150f-7359-4c4e-80e7-b778bddd04f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create link'])[1]/preceding::span[1]</value>
+      <webElementGuid>9fd6dad4-979c-41d8-807d-6f1291bd2b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview payment page'])[1]/preceding::span[2]</value>
+      <webElementGuid>b0306b92-ffa7-416b-add0-2834c2ecc6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>450d5c0e-c605-4517-8b39-7482d7c41073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-stepper-content/div[2]/sw-button/button/span</value>
+      <webElementGuid>8a5ca7e1-49e3-49c1-ac98-d628202a76eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>43f97ec8-95f6-4e65-950b-0ac6e3aa0259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

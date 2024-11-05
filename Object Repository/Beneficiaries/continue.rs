@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continue</name>
+   <tag></tag>
+   <elementGuidId>0866616d-a701-4039-87d1-3fcab308f729</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary > span.sw-btn-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Continue&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d8625af-6cd9-4839-aabc-d00dd8fd99ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn-label ng-star-inserted</value>
+      <webElementGuid>8fd70c62-11c2-458a-8c73-029204047726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>6f923d7a-dc79-42a8-87d2-34e13f272f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidepanel-body&quot;)/div[@class=&quot;padding-16 ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[2]/div[@class=&quot;sw-stepper-content selected completed&quot;]/div[@class=&quot;bg-white padding-16 radius-lg ng-star-inserted&quot;]/div[@class=&quot;m-t-20&quot;]/sw-button[1]/button[@class=&quot;sw-btn sw-btn-primary&quot;]/span[@class=&quot;sw-btn-label ng-star-inserted&quot;]</value>
+      <webElementGuid>3006a5de-a413-414f-99d7-608f6e602c23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidepanel-body']/div/sw-stepper/div/sw-stepper-content[2]/div[2]/div/div/sw-button/button/span</value>
+      <webElementGuid>43085dc9-290f-4c0b-8413-f9882e2630b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select the Bank'])[1]/following::span[5]</value>
+      <webElementGuid>be9b7607-5536-4bd2-897c-80a082aac33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Name*'])[1]/following::span[5]</value>
+      <webElementGuid>55639842-ac72-45fb-ad19-5b91b7cb940c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Account'])[1]/preceding::span[1]</value>
+      <webElementGuid>5d8120fb-8dec-4be1-9288-627ef0c7cf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec7cb352-8497-44d6-9677-2eb0e94be527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>fc104fd5-5fe1-4d5f-b09b-cf6d37fc0d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-stepper-content[2]/div[2]/div/div/sw-button/button/span</value>
+      <webElementGuid>0910066d-fa72-49b4-af62-2071bcf86b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>6ad6682e-269c-45e2-8e87-2abeb25b2f27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

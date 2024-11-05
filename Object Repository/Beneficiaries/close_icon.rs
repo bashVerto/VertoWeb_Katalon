@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close_icon</name>
+   <tag></tag>
+   <elementGuidId>1de1c43d-70ed-4f66-b423-f49e0314c4c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sidepanel-header']/div/div[2]/sw-button/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sds-close.sw-btn-icon.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sidepanel-header sw-button >> internal:role=button[name=&quot;p&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eab153be-6439-46bb-9fed-25bc4c455a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e17c5afb-6cf8-4f14-9bbf-317100df2201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sds-close sw-btn-icon ng-star-inserted</value>
+      <webElementGuid>11a27046-c106-4e56-a6c2-53bba2713c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidepanel-header&quot;)/div[@class=&quot;flex flex-grow space-between bg-white padding-16 radius-lg ng-star-inserted&quot;]/div[@class=&quot;flex flex-wrap align-items-center gaps-10 ng-star-inserted&quot;]/sw-button[1]/button[@class=&quot;sw-btn sw-btn-gray sw-btn-sm sw-btn-icon-only&quot;]/span[@class=&quot;sds-close sw-btn-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>f041e1e3-0dba-47e0-aba1-d3b6df0aa50f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidepanel-header']/div/div[2]/sw-button/button/span</value>
+      <webElementGuid>bf270aee-6d59-47fd-9b74-99ce111c146b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/sw-button/button/span</value>
+      <webElementGuid>47a0479a-a1f6-4aa5-8696-5f422293f0cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select Purpose of Payment_sw-input ng-untouched ng-pristine ng-valid</name>
+   <tag></tag>
+   <elementGuidId>b12a3d3e-81bc-46e5-af2e-943fe04d4678</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sw-select > input.sw-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=textbox[name=&quot;Select purpose of payment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e5bde51f-1713-4c93-b9ec-3d093e23f88d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>7002a8dd-50bb-4679-a381-1570b34ad792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>56352278-0248-45ee-853f-959176624aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select purpose of payment</value>
+      <webElementGuid>1a73d17f-c8e0-482c-a5df-bc71a6529d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidepanel-body&quot;)/div[@class=&quot;padding-24 ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/form[@class=&quot;ng-invalid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;bg-gray-100 radius-md padding-24 margin-24&quot;]/div[@class=&quot;status-container&quot;]/sw-select[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;sw-select-wrapper&quot;]/div[@class=&quot;sw-select&quot;]/input[@class=&quot;sw-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>749cf1a1-6d67-4aba-aeb5-c780ec8afba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[8]</value>
+      <webElementGuid>c8320aff-b1d0-48cb-b8e9-2ce0cae3d1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidepanel-body']/div/sw-stepper/div/sw-stepper-content[2]/div[2]/form/div[2]/div/sw-select/div/div/input</value>
+      <webElementGuid>612d5db2-db30-4ba9-84b1-4d4514cc8cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-select/div/div/input</value>
+      <webElementGuid>1266d9fa-fc3f-4d81-ae1d-0913aba4700d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Select purpose of payment']</value>
+      <webElementGuid>48791535-c6ac-4326-a67f-3fa6f7613e95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
