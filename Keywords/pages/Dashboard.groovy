@@ -25,16 +25,23 @@ public class Dashboard {
 	TestObject clickBeneficiary = findTestObject('Object Repository/Dashboard/beneficiaries_limit')
 	TestObject hoverOver = findTestObject('Object Repository/Dashboard/image_hover')
 	TestObject clickPaymentLinks = findTestObject('Object Repository/Dashboard/payment_links_button')
+	TestObject clickWallets = findTestObject('Object Repository/Dashboard/wallets_button')
 
 	public void toBeneficiaries() {
 		WebUI.waitForElementVisible(hoverOver, 45)
 		WebUI.mouseOver(hoverOver)
 		WebUI.click(clickBeneficiary)
 	}
-	
+
 	public void toPaymentLinks() {
 		WebUI.waitForElementVisible(hoverOver, 45)
 		WebUI.mouseOver(hoverOver)
 		WebUI.click(clickPaymentLinks)
+	}
+
+	public void toWallets() {
+		WebUI.waitForElementVisible(hoverOver, 45)
+		WebUI.mouseOver(hoverOver)
+		WebUI.click(clickWallets)
 	}
 }

@@ -16,11 +16,11 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import pages.Dashboard
-import pages.Beneficiaries
-import api.Login
-import data.TestData
-import data.InBuiltFunction
+import pages.Dashboard as Dashboard
+import pages.Beneficiaries as Beneficiaries
+import api.Login as Login
+import data.TestData as TestData
+import data.InBuiltFunction as InBuiltFunction
 
 Login loginAPI = new Login()
 Login landing_url = new Login()
@@ -28,13 +28,12 @@ Dashboard newDashboard = new Dashboard()
 Beneficiaries newBeneficiaries = new Beneficiaries()
 TestData newTest = new TestData()
 InBuiltFunction newFunction = new InBuiltFunction()
-
 String token = loginAPI.getToken()
 String url = landing_url.landingPage()
 
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
-WebUI.navigateToUrl(url + '?jwt=' + token)
+WebUI.navigateToUrl((url + '?jwt=') + token)
 
 newDashboard.toBeneficiaries()
 newBeneficiaries.toBankAccount()
@@ -54,3 +53,4 @@ newBeneficiaries.toContinue()
 newFunction.screenshot()
 
 WebUI.closeBrowser()
+WebUI.acceptAlert()

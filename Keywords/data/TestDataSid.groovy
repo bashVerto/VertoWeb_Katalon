@@ -18,10 +18,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class TestData {
-	String currency = "NGN"
+public class TestDataSid {
+	String ngn = "NGN"
+	String usd = "USD"
+	String eur = "EUR"
 	String first_name = "Bashir"
 	String last_name = "Alatishe"
 	String account_number = "0057778432"
 	String bank_name = "Access"
+	String amnt = "200"
+	String businessName = "Mob Inc"
+	String purposeOfPayment = "Medical Assistance"
+	String wtbPOP = "Purchase of Good(s)"
+	String beneName = "Euphoria Inc"
 }
