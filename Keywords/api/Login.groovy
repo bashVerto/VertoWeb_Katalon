@@ -27,7 +27,7 @@ public class Login {
 
 	@Keyword
 	def String getToken() {
-		RequestObject request = findTestObject('Object Repository/API/JWTTokenManish')
+		RequestObject request = findTestObject('Object Repository/API/JWTToken')
 		ResponseObject response = WS.sendRequest(request)
 
 		def jsonResponse = new JsonSlurper().parseText(response.getResponseText())
