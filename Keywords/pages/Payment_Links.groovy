@@ -21,10 +21,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class Payment_Links {
-	
+
 	TestObject createNewPLink = findTestObject('Object Repository/Payment_Links/Create_NewPLink')
 	TestObject inputAccountNumber = findTestObject('Object Repository/Beneficiaries/account_number')
-	
+
 	public void toLinkCreation() {
 		WebUI.waitForElementVisible(createNewPLink, 45)
 		WebUI.click(createNewPLink)

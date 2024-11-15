@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_International Bank Transfer</name>
+   <tag></tag>
+   <elementGuidId>521448dd-4a01-4bdb-90c5-1bec286305c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//sw-radio-group[@id='add-beneficary-popup-dd-mode']/div/div/div[2]/sw-radio-button/div/label/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;International Bank Transfer&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e2bd3da7-8a69-42a7-a534-997e3cb3d6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-mm</value>
+      <webElementGuid>1273f800-2141-4a61-b37f-039d43f06d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>International Bank Transfer</value>
+      <webElementGuid>1ba5c29b-bf1c-4b4f-9456-5e53d008d9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-beneficary-popup-dd-mode&quot;)/div[@class=&quot;sw-radio-group-wrapper&quot;]/div[@class=&quot;flex w-full&quot;]/div[@class=&quot;w-half padding-block-8 ng-star-inserted&quot;]/sw-radio-button[1]/div[@class=&quot;sw-radio-btn-wrapper&quot;]/label[@class=&quot;sw-radio-label-after&quot;]/p[@class=&quot;text-mm&quot;]</value>
+      <webElementGuid>f76aa6bd-fc06-4ed0-9794-49d6a9a405da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//sw-radio-group[@id='add-beneficary-popup-dd-mode']/div/div/div[2]/sw-radio-button/div/label/p</value>
+      <webElementGuid>ca08b7ce-c8e5-4716-b542-6f784daf47df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/following::p[2]</value>
+      <webElementGuid>7d0e15a5-40b3-46c0-b2aa-17f26ebca9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beneficiary Type'])[1]/following::p[5]</value>
+      <webElementGuid>63e16229-46d9-4d61-a133-408466a3bc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::p[1]</value>
+      <webElementGuid>bae68ed5-ab94-4b94-9179-27468b86054b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='International Bank Transfer']/parent::*</value>
+      <webElementGuid>64949cdb-fc8d-48a0-a9be-189e092efa08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-card[2]/div/sw-card-body/div/sw-radio-group/div/div/div[2]/sw-radio-button/div/label/p</value>
+      <webElementGuid>e63bc5e0-32f4-4ca3-aeb5-b41a0f56b7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'International Bank Transfer' or . = 'International Bank Transfer')]</value>
+      <webElementGuid>d1d44951-9783-4c98-83c5-dd47ccebf484</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

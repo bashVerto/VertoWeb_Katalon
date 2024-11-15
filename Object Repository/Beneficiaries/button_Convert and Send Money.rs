@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Convert and Send Money</name>
+   <tag></tag>
+   <elementGuidId>7e2948c7-7203-4894-a403-39411c3e5fad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Convert and Send Money&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8dcf0405-236e-4a1d-a8b4-33e7ecfb576c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d9ee0f2-1ca3-4708-8930-53b54accc1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Convert and Send Money</value>
+      <webElementGuid>6489d40e-e3a8-4596-bf1b-393c94537df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-primary</value>
+      <webElementGuid>72d67ae0-7a53-48c7-94a6-1c2936a09eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Convert and Send Money</value>
+      <webElementGuid>ed50f46f-a81c-4eec-a35e-8c7db6d812c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/modal-container[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog animate_slideInRight full-screen modal-content-sm modal-md sidenav-modal&quot;]/div[@class=&quot;modal-content&quot;]/view-beneficiary[1]/v-sidepanel[1]/div[@class=&quot;sidepanel-wrapper&quot;]/div[@class=&quot;sidepanel-footer background-white padding-16 ng-star-inserted&quot;]/div[@class=&quot;mb-0 footer ng-star-inserted&quot;]/sw-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-primary&quot;]</value>
+      <webElementGuid>4f497018-0433-44c0-bf6f-bb7a19f862b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>7ae78039-a071-4142-adba-85fd83768820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::button[1]</value>
+      <webElementGuid>52b4a9e2-6a47-4a3e-83c5-c91725a6548b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[2]/following::button[1]</value>
+      <webElementGuid>3c1bcc87-0a03-4e6a-915b-a2340fab4b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Payment'])[1]/preceding::button[1]</value>
+      <webElementGuid>fecd6f02-069d-4097-a532-3b92aa492cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/sw-button/button</value>
+      <webElementGuid>7c7b0096-6dd8-47d1-ad2d-cde003a2f892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Convert and Send Money' or . = 'Convert and Send Money')]</value>
+      <webElementGuid>90d89402-1bb3-4aaa-a86e-915be7eefb7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

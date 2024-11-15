@@ -12,7 +12,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;clientId\&quot;: \&quot;VAAFMFA6GD4871KTMXWW6EGRC0V3\&quot;,\n  \&quot;apiKey\&quot;: \&quot;JFMNVB901B4FEYQPT6ECN2PVQWEFSY4BZ56CN6MN6AMDHEGEM7Y56H92\&quot;,\n  \&quot;mode\&quot;: \&quot;apiKey\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;clientId\&quot;: \&quot;F36QRA5WTS4MZWQ05MQ1S0AC664K\&quot;,\n  \&quot;apiKey\&quot;: \&quot;R1KT1W8H3W4D9EPF9A5TYPWCFA051NXHT4X7F5MG9FNM4A2HBEM9FGFA\&quot;,\n  \&quot;mode\&quot;: \&quot;apiKey\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

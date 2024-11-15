@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Make Payment_toBeneficiary</name>
+   <tag></tag>
+   <elementGuidId>4ab452eb-4606-4071-8fa5-2755730d1cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Make Payment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24c3b037-0a5a-4ce0-849c-37f36c685893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>79d22e05-15f7-470d-ab3d-c56b8200d653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Make Payment</value>
+      <webElementGuid>5f63965e-68ee-4654-9d31-1d6a48aaa023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-secondary</value>
+      <webElementGuid>d9c8edac-4d48-482a-abe2-991a7c5abd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make Payment</value>
+      <webElementGuid>2dfc2e2a-3371-4e85-b71b-6edd22b710d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/modal-container[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog animate_slideInRight full-screen modal-content-sm modal-md sidenav-modal&quot;]/div[@class=&quot;modal-content&quot;]/view-beneficiary[1]/v-sidepanel[1]/div[@class=&quot;sidepanel-wrapper&quot;]/div[@class=&quot;sidepanel-footer background-white padding-16 ng-star-inserted&quot;]/div[@class=&quot;mb-0 footer ng-star-inserted&quot;]/sw-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-secondary&quot;]</value>
+      <webElementGuid>1bde9a72-48bd-46d9-9a1e-b411092178be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>7110d430-80f0-43c1-a90f-d0c93d928257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert and Send Money'])[1]/following::button[1]</value>
+      <webElementGuid>44535aef-9133-437d-9e05-405cd169f34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::button[2]</value>
+      <webElementGuid>ccb3be33-ffa2-4232-a18d-043befdca3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay'])[1]/preceding::button[1]</value>
+      <webElementGuid>935a38fc-9c19-409f-a459-30eea2052772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/sw-button[2]/button</value>
+      <webElementGuid>c7f65140-8c19-4b5f-9a62-7bde35ae9626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Make Payment' or . = 'Make Payment')]</value>
+      <webElementGuid>5df080b7-7f7b-4bc1-9c49-cbbfae5aab31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

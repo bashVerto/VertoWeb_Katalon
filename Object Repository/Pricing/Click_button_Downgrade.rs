@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_button_Downgrade</name>
+   <tag></tag>
+   <elementGuidId>197891cc-4043-4963-abb8-17644284f93a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.column-2.free-plan.ng-star-inserted > div:nth-of-type(11) > sw-button.ng-star-inserted > button.sw-btn.sw-btn-secondary.sw-btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Downgrade&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2752b922-8cbf-4a77-b46c-8403871ac53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>751a25d5-fa6f-40c6-91d3-6d7b92b76e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Downgrade</value>
+      <webElementGuid>9729fe74-3f33-4e90-9f14-1db2fefd3262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-secondary sw-btn-sm</value>
+      <webElementGuid>d8e1a9f6-f85a-47a9-9c25-9e1c51f0ad60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Downgrade</value>
+      <webElementGuid>1a9d8968-3ee2-4ef2-9bf7-13536091eef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/div[@class=&quot;radius-md main-container&quot;]/div[@class=&quot;content ng-star-inserted selected&quot;]/v-subscription[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;subscription-container ng-star-inserted&quot;]/div[@class=&quot;column-2 free-plan ng-star-inserted&quot;]/div[11]/sw-button[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;sw-btn sw-btn-secondary sw-btn-sm&quot;]</value>
+      <webElementGuid>4c4dbf82-fa61-44f4-8e38-95262527d2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>c06bcf8c-b7c5-444c-86c0-1a127866787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15'])[2]/following::button[1]</value>
+      <webElementGuid>ec7b3c7a-98d7-42dd-8a4f-6dfdb93107d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.5'])[1]/following::button[1]</value>
+      <webElementGuid>a54648e5-cc42-4dea-b488-f608e4c74c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/ (month)'])[3]/preceding::button[1]</value>
+      <webElementGuid>402d4edb-232e-401f-9ffd-165ebeb8a805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[11]/sw-button/button</value>
+      <webElementGuid>b12c825b-60bd-4ad0-8dd7-fcc58a7164b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Downgrade' or . = 'Downgrade')]</value>
+      <webElementGuid>fc97e793-c2c3-4148-bdd5-93f66dabb3e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

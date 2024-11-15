@@ -24,4 +24,7 @@ public class InBuiltFunction {
 	public void screenshot() {
 		WebUI.takeScreenshot()
 	}
+	public void scrollToView(TestObject element){
+		WebUI.scrollToElement(element, 0)
+	}
 }

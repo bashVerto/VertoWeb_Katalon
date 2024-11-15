@@ -18,6 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import pages.Dashboard
 import pages.Beneficiaries
+import data.TestDataManish as TestData
 import api.Login
 
 Login loginAPI = new Login()

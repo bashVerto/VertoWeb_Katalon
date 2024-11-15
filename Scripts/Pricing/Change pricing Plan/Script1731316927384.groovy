@@ -17,16 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import pages.Dashboard
-import pages.Beneficiaries
+import pages.Pricing
 import api.Login
-import data.TestData
 import data.InBuiltFunction
 
 Login loginAPI = new Login()
 Login landing_url = new Login()
 Dashboard newDashboard = new Dashboard()
-Beneficiaries newBeneficiaries = new Beneficiaries()
-TestData newTest = new TestData()
+Pricing newPricing = new Pricing()
 InBuiltFunction newFunction = new InBuiltFunction()
 
 String token = loginAPI.getToken()
@@ -36,21 +34,11 @@ WebUI.openBrowser('')
 WebUI.maximizeWindow()
 WebUI.navigateToUrl(url + '?jwt=' + token)
 
-newDashboard.toBeneficiaries()
-newBeneficiaries.toBankAccount()
-newBeneficiaries.toCurrency(newTest.currency)
-newBeneficiaries.toSelectNGN()
-newBeneficiaries.toIndividual()
-newBeneficiaries.toContinue()
-newBeneficiaries.toFirstName(newTest.first_name)
-newBeneficiaries.toLastName(newTest.last_name)
-newBeneficiaries.toAccountNumber(newTest.account_number)
-newBeneficiaries.toBankName(newTest.bank_name)
-newBeneficiaries.toSelectAccess()
-newBeneficiaries.toContinue()
-newBeneficiaries.toAddAccount()
-newBeneficiaries.toAuthenticator()
-newBeneficiaries.toContinue()
+newPricing.toSettingsButton()
+newPricing.toSubscription()
+newPricing.toPlanChange()
+newPricing.toConfirmChangePlan()
+newPricing.toAuthenticator()
 newFunction.screenshot()
 
 WebUI.closeBrowser()

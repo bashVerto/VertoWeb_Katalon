@@ -15,7 +15,7 @@
       <guid>54d2e12e-be3d-4c3b-a2f8-2df6cd25d86c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Beneficiaries/Create a New Beneficiary</testCaseId>
+      <testCaseId>Test Cases/Beneficiaries/Create_New_Beneficiary_NGN</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
