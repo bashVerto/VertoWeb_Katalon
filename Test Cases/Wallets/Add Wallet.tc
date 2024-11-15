@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This flow opens the Add Wallet screen&#xd;
+Closes it using Cancel CTA&#xd;
+Opens it again and adds a USD wallet</description>
+   <name>Add Wallet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e9f0467-bfa9-465a-9824-b24d7a965db0</testCaseGuid>
+</TestCaseEntity>

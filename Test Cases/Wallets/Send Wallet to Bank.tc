@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This tests Wallet to Bank Account payment flow</description>
+   <name>Send Wallet to Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00600c06-58af-4ac0-9acf-04eb5eebb733</testCaseGuid>
+</TestCaseEntity>

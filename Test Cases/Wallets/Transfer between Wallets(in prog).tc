@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This flow tests payment flow between same currency wallets of a profile</description>
+   <name>Transfer between Wallets(in prog)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d58d123-adbf-4973-aa25-02d832256006</testCaseGuid>
+</TestCaseEntity>

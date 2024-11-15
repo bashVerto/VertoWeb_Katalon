@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VPayTab</name>
+   <tag></tag>
+   <elementGuidId>56b34cec-44f8-4e98-8277-d071912f1915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank accounts'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;V-Pay&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34ea0e78-9a37-4e69-8e28-c5b4139d5a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-tab font-bold text-mm radius-xl pointer ng-star-inserted</value>
+      <webElementGuid>8d03cdf5-ff9a-422a-a4aa-bbf338643673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> V-Pay </value>
+      <webElementGuid>96fab9e8-c9fb-4065-ac84-4a759c13f8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-send-money[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/v-send-money-core[1]/div[@class=&quot;panel-body ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/div[@class=&quot;sw-card ng-star-inserted&quot;]/v-select-recipient[1]/sw-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-card bg-white text-gray-800&quot;]/sw-card-body[1]/div[@class=&quot;sw-card-body bg-gray-100 padding-16&quot;]/div[@class=&quot;radius-md bg-white padding-16&quot;]/div[@class=&quot;inbox-filter-wrapper flex-wrap&quot;]/div[@class=&quot;filter-tab font-bold text-mm radius-xl pointer ng-star-inserted&quot;]</value>
+      <webElementGuid>10fcf2eb-5a0e-4e0c-8e84-09614f3d730b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank accounts'])[1]/following::div[1]</value>
+      <webElementGuid>f3478e9b-872b-4adb-abb0-e7a33e386668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[9]</value>
+      <webElementGuid>bddd24d9-5ce1-4520-b243-39d49b997dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My recipients'])[1]/preceding::div[1]</value>
+      <webElementGuid>62c01209-ae26-44e6-a83e-8d44c58b76d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My accounts'])[1]/preceding::div[2]</value>
+      <webElementGuid>6a17ee3e-2b4b-4324-9207-3d723304bcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='V-Pay']/parent::*</value>
+      <webElementGuid>f2b2a7da-31cf-4661-9f33-96068bfd5c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-card-body/div/div/div/div[2]</value>
+      <webElementGuid>2680f999-5fa5-470f-a952-9bf30789a7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' V-Pay ' or . = ' V-Pay ')]</value>
+      <webElementGuid>2ed5f37f-7551-40bf-948b-2e861427cab1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

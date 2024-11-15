@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Type_Column</name>
+   <tag></tag>
+   <elementGuidId>7765958b-50c0-4e27-9bd9-0303a4c0d1c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Balance'])[1]/following::th[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Type&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>88c0a991-46a2-42b9-8135-1e70364ac831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold ng-star-inserted</value>
+      <webElementGuid>c902fdbe-9527-40d4-a483-944a21bfa22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>b8347fed-ce00-41f2-b6f0-7ff34a0a5a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-accounts[@class=&quot;ng-star-inserted&quot;]/v-account-dashboard[1]/div[1]/div[@class=&quot;bg-white radius-md flex flex-column&quot;]/div[@class=&quot;mobileView flex-column flex gaps-16 padding-16&quot;]/div[@class=&quot;w-full flex gaps-16&quot;]/div[@class=&quot;wallets-list&quot;]/v-wallet-list-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bottom-margin ng-star-inserted&quot;]/sw-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-table-card&quot;]/div[@class=&quot;sw-table-card-body&quot;]/table[@class=&quot;sw-table&quot;]/thead[@class=&quot;sw-table-head bg-gray-300&quot;]/th[@class=&quot;font-bold ng-star-inserted&quot;]</value>
+      <webElementGuid>861e3538-3ebb-41b8-a0dd-9b6046c3d1dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Balance'])[1]/following::th[1]</value>
+      <webElementGuid>57bc0406-0720-4bce-97c6-52faafbd43b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Balance'])[1]/following::th[2]</value>
+      <webElementGuid>96668c24-6dce-4fc1-8c60-ec6bfbf2db6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GBP'])[1]/preceding::th[1]</value>
+      <webElementGuid>6fe6edb7-4cfa-4f56-a644-9202d4768c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IBAN'])[1]/preceding::th[1]</value>
+      <webElementGuid>cf6142dd-0f1d-41ad-b15e-bae3f3f32602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Type']/parent::*</value>
+      <webElementGuid>bc8342ad-41c9-47eb-8e8b-6708e98cc346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]</value>
+      <webElementGuid>e1660c17-0b7f-4651-ad45-cba3e9723d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Type' or . = 'Type')]</value>
+      <webElementGuid>b8aec55e-f5b2-4bd0-9ceb-997b0f923ac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SendBtn</name>
+   <tag></tag>
+   <elementGuidId>878d1ef0-f8c7-4050-a361-74218b9e0426</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Send to another business' or . = 'Send to another business')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary.sw-btn-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Send to another business&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>720e63a7-0321-4700-9827-b6a4a2e70aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f63981d-7aac-4190-a40e-e27bc7dbbe21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Send to another business</value>
+      <webElementGuid>4fcdb957-2104-498f-b7ae-fb3b08eadf56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-primary sw-btn-md</value>
+      <webElementGuid>b02356be-d47a-4165-b4d5-c3bcca50c172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send to another business</value>
+      <webElementGuid>7c66042a-5ef7-44f0-856e-3b39ba477ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-send-money[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/v-send-money-core[1]/div[@class=&quot;panel-body ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/div[@class=&quot;sw-card ng-star-inserted&quot;]/v-select-recipient[1]/div[@class=&quot;action-button margin-block-16 flex justify-between ng-star-inserted&quot;]/sw-button[@class=&quot;margin-16&quot;]/button[@class=&quot;sw-btn sw-btn-primary sw-btn-md&quot;]</value>
+      <webElementGuid>ad925eb0-4709-49eb-b4b8-9be48575b901</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>098f1259-8a79-4329-8ae2-d10d2acc0cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/following::button[1]</value>
+      <webElementGuid>47d1a97e-25f8-49ea-a7c2-7909eb4843e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference (optional)'])[1]/following::button[2]</value>
+      <webElementGuid>bb3ade66-cd50-496f-a8fd-1a2dc7167db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session Expiring Soon'])[1]/preceding::button[1]</value>
+      <webElementGuid>92232750-0966-40af-81d2-82e39619bb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/sw-button/button</value>
+      <webElementGuid>a0ca0546-0ade-4b31-b791-6eea61b7e908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Send to another business' or . = 'Send to another business')]</value>
+      <webElementGuid>5f0d53cb-3df5-4348-b137-d3cb4346081a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

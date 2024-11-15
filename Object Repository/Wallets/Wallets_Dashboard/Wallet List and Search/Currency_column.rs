@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Currency_column</name>
+   <tag></tag>
+   <elementGuidId>b477ca78-c1a3-42b6-b62a-5bdfe5812c37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.font-bold.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::th[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Currency&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>2b23d40c-30b4-4b75-95ba-cb3a5949f3dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold ng-star-inserted</value>
+      <webElementGuid>c2c510c3-27bc-4ac4-a9df-b7050a8f0028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Currency</value>
+      <webElementGuid>8a9a9b96-eba6-44e0-bd90-85dc9b4bed83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-accounts[@class=&quot;ng-star-inserted&quot;]/v-account-dashboard[1]/div[1]/div[@class=&quot;bg-white radius-md flex flex-column&quot;]/div[@class=&quot;mobileView flex-column flex gaps-16 padding-16&quot;]/div[@class=&quot;w-full flex gaps-16&quot;]/div[@class=&quot;wallets-list&quot;]/v-wallet-list-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bottom-margin ng-star-inserted&quot;]/sw-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-table-card&quot;]/div[@class=&quot;sw-table-card-body&quot;]/table[@class=&quot;sw-table&quot;]/thead[@class=&quot;sw-table-head bg-gray-300&quot;]/th[@class=&quot;font-bold ng-star-inserted&quot;]</value>
+      <webElementGuid>f04e9e2d-8732-4690-a31f-b1cea80441a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/following::th[1]</value>
+      <webElementGuid>58a2d8c9-2556-4b88-8f54-c782a24dfcd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Wallet'])[1]/following::th[1]</value>
+      <webElementGuid>929c1253-7977-4a8a-a821-e3e954c31bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Name'])[1]/preceding::th[1]</value>
+      <webElementGuid>4c16a99b-2dcc-4767-bd43-a81b8786d0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Balance'])[1]/preceding::th[2]</value>
+      <webElementGuid>a39fbd8a-c567-46c6-8746-4406a345481a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Currency']/parent::*</value>
+      <webElementGuid>e3ab6cda-51cd-4d9c-a628-779d11ae7702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>b4bc81f3-2a0e-46e0-a2f5-f5b57abadec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Currency' or . = 'Currency')]</value>
+      <webElementGuid>9184798a-91f8-4d01-b804-f3559867ba32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

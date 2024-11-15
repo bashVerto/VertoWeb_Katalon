@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CTA_AddWallet</name>
+   <tag></tag>
+   <elementGuidId>40ba7ea2-d76b-4dbd-a0f2-94595b75fb26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Add Wallet' or . = 'Add Wallet')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary.sw-btn-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>v-sidepanel >> internal:role=button[name=&quot;Add Wallet&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>203e6cb2-3e0b-485e-a71d-f26c692582a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71da19f0-ae42-4751-abf3-d8234b283f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-primary sw-btn-md</value>
+      <webElementGuid>45a7488e-d9e2-42b9-ba50-73db038cf34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Wallet</value>
+      <webElementGuid>015a7573-6673-4b6c-b16e-205e4422dd24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/modal-container[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog animate_slideInRight modal-content-sm modal-md sidenav-modal&quot;]/div[@class=&quot;modal-content&quot;]/v-add-wallet-v2[1]/v-sidepanel[1]/div[@class=&quot;sidepanel-wrapper&quot;]/div[@class=&quot;sidepanel-footer background-white padding-24 ng-star-inserted&quot;]/div[@class=&quot;flex align-items-center gaps-10 ng-star-inserted&quot;]/sw-button[1]/button[@class=&quot;sw-btn sw-btn-primary sw-btn-md&quot;]</value>
+      <webElementGuid>14b9b78f-cbab-4e86-b1bb-7089094e8685</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>7a0527b1-3b49-4ec3-90be-b2c2be91dc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter new name for wallet'])[1]/following::button[1]</value>
+      <webElementGuid>5173c9e2-5b60-44fc-a98b-0679bfe6360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select the currency'])[1]/following::button[1]</value>
+      <webElementGuid>40d84a76-e843-49b1-9e3d-9941dcc81c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>42417c9d-4c06-4a3f-9675-3a808ae7cd81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//v-sidepanel/div/div[3]/div/sw-button/button</value>
+      <webElementGuid>fedfa4ec-39bf-4c5f-93ee-73c1ba43e96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Wallet' or . = 'Add Wallet')]</value>
+      <webElementGuid>da15c78b-8c23-41ea-8cb5-332bf0e260ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

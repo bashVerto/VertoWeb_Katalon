@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WtB_SendBtn</name>
+   <tag></tag>
+   <elementGuidId>af842338-13b1-4ac6-8f8d-e4e187aa8c00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.sw-btn.sw-btn-primary.sw-btn-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Send to bank account&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af0193c6-10f5-4f29-aaa2-d40369cf8315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15d87046-8e6d-4f93-a875-fa78dd47237b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Send to bank account</value>
+      <webElementGuid>f61069bf-2912-4e2e-b02a-beec3000ae1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn sw-btn-primary sw-btn-md</value>
+      <webElementGuid>8bfa8255-8c98-4fdf-acca-3770dcc6466f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send to bank account</value>
+      <webElementGuid>7958a816-9978-4478-b133-b6bf7d0ebb03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-send-money[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/v-send-money-core[1]/div[@class=&quot;panel-body ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/div[@class=&quot;sw-card ng-star-inserted&quot;]/v-select-recipient[1]/div[@class=&quot;action-button margin-block-16 flex justify-between ng-star-inserted&quot;]/sw-button[@class=&quot;margin-16&quot;]/button[@class=&quot;sw-btn sw-btn-primary sw-btn-md&quot;]</value>
+      <webElementGuid>9ddb72a5-1a88-4003-ad77-6c49c32ead29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>3f34ce24-773c-44b1-8c45-1967216efa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/following::button[1]</value>
+      <webElementGuid>5ed9ce4c-74ad-4f6f-9388-9aaa7d1d3ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference (optional)'])[1]/following::button[2]</value>
+      <webElementGuid>63b092df-38ad-4fc9-b8d0-7e5791e992cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session Expiring Soon'])[1]/preceding::button[1]</value>
+      <webElementGuid>aed3289a-9d5c-4a11-a725-2eef5c3d1678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/sw-button/button</value>
+      <webElementGuid>17d4df25-f151-462c-ba7b-9850e2c7645d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Send to bank account' or . = 'Send to bank account')]</value>
+      <webElementGuid>061796bb-c4b4-4b65-9722-3b8e579d8e7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WtB_Refresh</name>
+   <tag></tag>
+   <elementGuidId>d98ee961-000a-49d8-b872-78a9637d55f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sds-refresh.sw-btn-icon.sw-btn-icon-left.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/sw-button/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Refresh&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f538720-9784-43fe-9c37-d99d647d5a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>863c4705-3f54-4f8d-a891-9b68f5760b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sds-refresh sw-btn-icon sw-btn-icon-left ng-star-inserted</value>
+      <webElementGuid>2c3b93df-05bf-4ed3-8b0e-55bd6f486c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-send-money[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;flex flex-column gaps-16&quot;]/v-send-money-core[1]/div[@class=&quot;panel-body ng-star-inserted&quot;]/sw-stepper[1]/div[@class=&quot;sw-stepper-wrapper&quot;]/sw-stepper-content[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-stepper-content selected&quot;]/div[@class=&quot;sw-card ng-star-inserted&quot;]/v-select-recipient[1]/sw-card[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;sw-card bg-white text-gray-800&quot;]/sw-card-body[1]/div[@class=&quot;sw-card-body bg-gray-100 padding-16&quot;]/div[@class=&quot;radius-md bg-white padding-16&quot;]/div[@class=&quot;margin-block-16 ng-star-inserted&quot;]/sw-table[1]/div[@class=&quot;sw-table-card&quot;]/div[@class=&quot;sw-table-card-header ng-star-inserted&quot;]/div[@class=&quot;flex space-between flex-wrap align-items-center ng-star-inserted&quot;]/div[@class=&quot;table-btns&quot;]/div[2]/sw-button[1]/button[@class=&quot;sw-btn sw-btn-gray&quot;]/span[@class=&quot;sds-refresh sw-btn-icon sw-btn-icon-left ng-star-inserted&quot;]</value>
+      <webElementGuid>bfab82a0-daf2-4ed1-b225-2dd7ef3bb23e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/sw-button/button/span</value>
+      <webElementGuid>73d6bd67-56cb-4963-98ba-e8b3b3334b59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

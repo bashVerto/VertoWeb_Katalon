@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CTA_WalletListRefresh</name>
+   <tag></tag>
+   <elementGuidId>0ca50c3e-ae0c-424f-8d7e-042beff84520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Wallet'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sw-button:nth-of-type(3) > button.sw-btn.sw-btn-secondary.sw-btn-sm > span.sw-btn-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Refresh&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1946393-1d68-4f07-8c28-b2faa6b6d363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sw-btn-label ng-star-inserted</value>
+      <webElementGuid>e884ef3c-c480-4c64-a0aa-8791d0664e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>72d8ef78-4e0e-4e32-a60c-281b4de99044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refresh</value>
+      <webElementGuid>aa8e0b10-016b-44b9-a33f-3a6b4075af67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[1]/v-main-bridge[@class=&quot;ng-star-inserted&quot;]/v-main[@class=&quot;ng-star-inserted&quot;]/v-client-main[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;main light ng-star-inserted&quot;]/div[@class=&quot;content light&quot;]/div[@class=&quot;flex flex-column w-full main-content&quot;]/div[@class=&quot;content-wrapper light&quot;]/v-accounts[@class=&quot;ng-star-inserted&quot;]/v-account-dashboard[1]/div[1]/div[@class=&quot;bg-white radius-md flex flex-column&quot;]/div[@class=&quot;mobileView flex-column flex gaps-16 padding-16&quot;]/div[@class=&quot;flex flex-end gaps-16 align-items-center&quot;]/sw-button[3]/button[@class=&quot;sw-btn sw-btn-secondary sw-btn-sm&quot;]/span[@class=&quot;sw-btn-label ng-star-inserted&quot;]</value>
+      <webElementGuid>9410d599-7b0d-4971-b932-c76f5b5608bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Wallet'])[1]/following::span[2]</value>
+      <webElementGuid>468fffa9-b435-4979-aca6-455ce5045120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List View'])[1]/following::span[4]</value>
+      <webElementGuid>7e4bc5b2-614f-4fcf-8939-822d3a19733a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[object Object]'])[1]/preceding::span[1]</value>
+      <webElementGuid>6777a39f-4696-434b-83e0-43145ec329a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balances displayed are of your default wallets only.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b5ea3aff-52fb-4411-817b-b07e379f3a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refresh']/parent::*</value>
+      <webElementGuid>b728c9b3-4884-4f8f-b959-734800f0c263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sw-button[3]/button/span[2]</value>
+      <webElementGuid>ff95e4b4-dc8e-4e41-bab0-3ecabb2c7a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Refresh' or . = 'Refresh')]</value>
+      <webElementGuid>d654d92a-f257-4500-9457-9b498beefe66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
